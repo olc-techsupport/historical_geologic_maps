@@ -10,10 +10,9 @@ This notebook displays historical geologic quadrangle and other maps relevant to
 **Geological Map of South Dakota (1:500,000)**
 - PDF: [https://www.sdgs.usd.edu/pubs/pdf/G-10.pdf](https://www.sdgs.usd.edu/pubs/pdf/G-10.pdf)  
 - GIS files: [https://sddenr.net/pubs/gisfiles/G-10.zip](https://sddenr.net/pubs/gisfiles/G-10.zip)  
-- Notebook: WIP (almost complete)
+- Notebook: WIP
 
 **South Dakota Geological Survey 1 x 2 Degree Geological Quadrangle Maps (1:250,000 scale)**  
-Notebook started to import, open, layer all quads on a basemap, interactive mapping with folium:
 
 - **Martin Quadrangle**  
   - PDF: [https://sddenr.net/pubs/pdf/GQ250K-2_2020.pdf](https://sddenr.net/pubs/pdf/GQ250K-2_2020.pdf)  
@@ -70,8 +69,6 @@ Notebook started to import, open, layer all quads on a basemap, interactive mapp
 - Spring Creek: [https://sddenr.net/pubs/pdf/GQ62K-092.pdf](https://sddenr.net/pubs/pdf/GQ62K-092.pdf)  
 - Ring Thunder: [https://sddenr.net/pubs/pdf/GQ62K-089.pdf](https://sddenr.net/pubs/pdf/GQ62K-089.pdf)  
 - White River: not found online  
-
-*Notebook: Jim will bring these into ArcGIS to digitize and georeference. Lilly is working on a notebook similar to the quads above.*
 
 ---
 
