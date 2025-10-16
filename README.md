@@ -42,8 +42,6 @@ This notebook displays historical geologic quadrangle and other maps relevant to
 | Ring Thunder | [Link](https://sddenr.net/pubs/pdf/GQ62K-089.pdf) |
 | White River | *Not found online* |
 
-*Notebook: Jim will bring these into ArcGIS to digitize and georeference. Lilly is working on a notebook similar to the quads above.*
-
 ---
 
 ## Other Geologic Maps & Resources
