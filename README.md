@@ -1,7 +1,7 @@
 # Pine Ridge Indian Reservation - Historical Geologic Map Project
 
 ## Project Overview
-This notebook displays historical geologic quadrangle and other maps relevant to producing a comprehensive geologic map for the Pine Ridge Indian Reservation.
+This repository can be used to display historical geologic quadrangle and other maps relevant to producing a comprehensive geologic map for the Pine Ridge Indian Reservation.
 
 ---
 ## Data Sources
