@@ -1,9 +1,8 @@
-# Pine Ridge Indian Reservation - Historical Geologic Map Project
+# Oglala Lakota College Historical Geologic Map Project
 
 ## Project Overview
 This repository can be used to display historical geologic quadrangle and other maps relevant to producing a comprehensive geologic map for the Pine Ridge Indian Reservation.
 
----
 ## Data Sources
 
 ## 1:250,000 Quadrangles (South Dakota Geological Survey)
@@ -16,8 +15,6 @@ This repository can be used to display historical geologic quadrangle and other 
 | Pierre | [PDF](https://sddenr.net/pubs/pdf/GQ250K-5_2025.pdf) | [GIS](https://sddenr.net/pubs/gisfiles/GQ250K-5_2025.zip) |
 | Lemmon | [PDF](https://sddenr.net/pubs/pdf/GQ250K-1_2011.pdf) | [GIS](https://sddenr.net/pubs/gisfiles/GQ250K/GQ250K-1_2011.zip) |
 | Rapid City | [PDF](https://sddenr.net/pubs/pdf/GQ250K-4_2023.pdf) | [GIS](https://sddenr.net/pubs/gisfiles/GQ250K/GQ250K-4_2023.zip) |
-
----
 
 ## Intermediate Scale Quadrangles (1:63,000 or 1:62,250)
 
@@ -41,8 +38,6 @@ This repository can be used to display historical geologic quadrangle and other 
 | Spring Creek | [Link](https://sddenr.net/pubs/pdf/GQ62K-092.pdf) |
 | Ring Thunder | [Link](https://sddenr.net/pubs/pdf/GQ62K-089.pdf) |
 | White River | *Not found online* |
-
----
 
 ## Other Geologic Maps & Resources
 
